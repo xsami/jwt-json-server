@@ -1,0 +1,29 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Ronald",
+      "age": 28,
+      "roles": [
+        1, 2
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin",
+      "decription": "manage user control"
+    },
+    {
+      "id": 2,
+      "name": "supervisor",
+      "decription": "Call if there is a problem"
+    },
+    {
+      "id": 3,
+      "name": "watchman",
+      "decription": "Take care of the people"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ameyo",
+  "version": "1.0.0",
+  "description": "ameyo rest for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js > stdoutput.txt 2> stderr.txt &"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "xsami",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0"
+  }
+}

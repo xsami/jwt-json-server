@@ -1,0 +1,288 @@
+{
+    "clients": [
+        {
+            "_id": "5c30d6a85941322f39814c4f",
+            "index": 0,
+            "guid": "ff89c8b9-bfe3-49b8-9a5d-e6cb3f0bc34d",
+            "isActive": true,
+            "balance": "$1,110.53",
+            "picture": "http://placehold.it/32x32",
+            "age": 26,
+            "eyeColor": "blue",
+            "name": "Deirdre Dennis",
+            "gender": "female",
+            "company": "LIMAGE",
+            "email": "deirdredennis@limage.com",
+            "phone": "+1 (905) 500-2216",
+            "address": "344 Powers Street, Snelling, California, 8739",
+            "about": "Aliquip laborum reprehenderit mollit in. Enim esse ut anim consequat. In occaecat ullamco cupidatat voluptate deserunt exercitation veniam eu nulla consequat consequat culpa quis. Tempor fugiat irure ea nulla est dolore officia enim culpa.\r\n",
+            "registered": "2018-02-14T11:44:09 +04:00",
+            "latitude": 35.986668,
+            "longitude": -92.881923,
+            "tags": [
+            "incididunt",
+            "minim",
+            "qui",
+            "occaecat",
+            "culpa",
+            "aliqua",
+            "nostrud"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Jasmine Avila"
+            },
+            {
+                "id": 1,
+                "name": "Clemons Cote"
+            },
+            {
+                "id": 2,
+                "name": "Isabel Mcbride"
+            }
+            ],
+            "greeting": "Hello, Deirdre Dennis! You have 6 unread messages.",
+            "favoriteFruit": "banana"
+        },
+        {
+            "_id": "5c30d6a80cfe984fe6a1aaf8",
+            "index": 1,
+            "guid": "07a3a318-ca57-4839-84f0-fcdf5adbcb14",
+            "isActive": false,
+            "balance": "$1,095.23",
+            "picture": "http://placehold.it/32x32",
+            "age": 24,
+            "eyeColor": "green",
+            "name": "Edwina Ratliff",
+            "gender": "female",
+            "company": "REALYSIS",
+            "email": "edwinaratliff@realysis.com",
+            "phone": "+1 (801) 495-3090",
+            "address": "820 Quincy Street, Carlton, Washington, 5732",
+            "about": "Tempor laboris sunt velit proident quis veniam. Anim exercitation pariatur Lorem labore occaecat minim fugiat aute pariatur. Ipsum reprehenderit qui eu nisi. Sit irure fugiat sunt anim. Ea esse ea consequat ad duis et.\r\n",
+            "registered": "2016-04-22T05:37:59 +04:00",
+            "latitude": -42.831117,
+            "longitude": -18.986124,
+            "tags": [
+            "Lorem",
+            "amet",
+            "consequat",
+            "fugiat",
+            "laboris",
+            "sint",
+            "magna"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Beatriz Hogan"
+            },
+            {
+                "id": 1,
+                "name": "Richmond Donaldson"
+            },
+            {
+                "id": 2,
+                "name": "Castillo Gaines"
+            }
+            ],
+            "greeting": "Hello, Edwina Ratliff! You have 2 unread messages.",
+            "favoriteFruit": "banana"
+        },
+        {
+            "_id": "5c30d6a85ad201635e89dddc",
+            "index": 2,
+            "guid": "d4db6e83-c86e-492e-9b99-be9a4bfee3f3",
+            "isActive": true,
+            "balance": "$2,997.95",
+            "picture": "http://placehold.it/32x32",
+            "age": 37,
+            "eyeColor": "brown",
+            "name": "Gomez Pace",
+            "gender": "male",
+            "company": "COMVEX",
+            "email": "gomezpace@comvex.com",
+            "phone": "+1 (849) 536-3473",
+            "address": "135 Debevoise Street, Worton, Mississippi, 8381",
+            "about": "Culpa consectetur id eu culpa anim tempor nostrud enim proident quis pariatur incididunt deserunt. Occaecat aliqua non adipisicing consectetur minim incididunt dolor elit pariatur officia proident id. Cupidatat amet ea tempor in irure officia id culpa ex mollit voluptate. Dolor Lorem mollit consectetur adipisicing sit nostrud magna magna ex officia voluptate.\r\n",
+            "registered": "2014-10-09T06:13:30 +04:00",
+            "latitude": -64.374928,
+            "longitude": 72.50825,
+            "tags": [
+            "officia",
+            "occaecat",
+            "commodo",
+            "reprehenderit",
+            "nostrud",
+            "ullamco",
+            "esse"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Paulette Mathews"
+            },
+            {
+                "id": 1,
+                "name": "Haney Walter"
+            },
+            {
+                "id": 2,
+                "name": "Brewer Dickson"
+            }
+            ],
+            "greeting": "Hello, Gomez Pace! You have 10 unread messages.",
+            "favoriteFruit": "banana"
+        },
+        {
+            "_id": "5c30d6a858e9c5c414ca9053",
+            "index": 3,
+            "guid": "1df7ab12-0535-4d36-a08d-5b977311011a",
+            "isActive": true,
+            "balance": "$3,059.92",
+            "picture": "http://placehold.it/32x32",
+            "age": 23,
+            "eyeColor": "green",
+            "name": "Blackburn Faulkner",
+            "gender": "male",
+            "company": "KRAG",
+            "email": "blackburnfaulkner@krag.com",
+            "phone": "+1 (881) 552-3868",
+            "address": "163 Doscher Street, Fairforest, New Hampshire, 2427",
+            "about": "Proident magna sunt sint laboris cillum. Sunt velit nisi consequat minim ullamco laboris voluptate aliqua. Aliquip qui do aliqua incididunt eiusmod nostrud ut. Aute voluptate id adipisicing occaecat aliquip veniam nisi dolor aute ea non. Consectetur velit minim est elit reprehenderit consequat ea minim enim. Quis quis do in eu cupidatat consectetur. Fugiat et consectetur proident nisi laboris commodo incididunt aliqua fugiat aliqua duis exercitation sit.\r\n",
+            "registered": "2015-12-10T11:16:43 +04:00",
+            "latitude": 65.272187,
+            "longitude": 14.01955,
+            "tags": [
+            "nulla",
+            "ea",
+            "velit",
+            "nostrud",
+            "ex",
+            "aute",
+            "nostrud"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Judy Cummings"
+            },
+            {
+                "id": 1,
+                "name": "Jeanie Bailey"
+            },
+            {
+                "id": 2,
+                "name": "Thomas Reeves"
+            }
+            ],
+            "greeting": "Hello, Blackburn Faulkner! You have 2 unread messages.",
+            "favoriteFruit": "strawberry"
+        },
+        {
+            "_id": "5c30d6a8319e777eb2201deb",
+            "index": 4,
+            "guid": "a5476b10-ebbc-4c94-b944-5f7b834fd6c2",
+            "isActive": false,
+            "balance": "$1,095.21",
+            "picture": "http://placehold.it/32x32",
+            "age": 31,
+            "eyeColor": "blue",
+            "name": "Sellers Stevens",
+            "gender": "male",
+            "company": "RAMJOB",
+            "email": "sellersstevens@ramjob.com",
+            "phone": "+1 (889) 596-3575",
+            "address": "548 Dorset Street, Dennard, Alaska, 3555",
+            "about": "Magna cillum laboris labore nisi sit id ut. Aute fugiat anim aute fugiat ullamco occaecat aliqua laboris commodo ullamco sint nulla. Quis deserunt enim ut in. Mollit Lorem deserunt quis minim mollit velit velit Lorem. Dolore deserunt adipisicing excepteur id nostrud cupidatat duis eu laborum magna. Nulla irure ad cupidatat excepteur exercitation qui nulla veniam sunt. Cillum irure minim velit id nulla exercitation amet duis ex.\r\n",
+            "registered": "2018-08-13T05:39:27 +04:00",
+            "latitude": -57.09911,
+            "longitude": -15.232901,
+            "tags": [
+            "in",
+            "ullamco",
+            "consequat",
+            "nulla",
+            "ut",
+            "adipisicing",
+            "consectetur"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Kellie Lindsay"
+            },
+            {
+                "id": 1,
+                "name": "Durham Torres"
+            },
+            {
+                "id": 2,
+                "name": "Josefina Tanner"
+            }
+            ],
+            "greeting": "Hello, Sellers Stevens! You have 8 unread messages.",
+            "favoriteFruit": "apple"
+        },
+        {
+            "_id": "5c30d6a872c6fbaa8ecbf9d5",
+            "index": 5,
+            "guid": "be47fdde-4810-40ad-8b11-71a224149ff5",
+            "isActive": false,
+            "balance": "$1,307.47",
+            "picture": "http://placehold.it/32x32",
+            "age": 28,
+            "eyeColor": "green",
+            "name": "Monroe Bowman",
+            "gender": "male",
+            "company": "FLUM",
+            "email": "monroebowman@flum.com",
+            "phone": "+1 (896) 510-2937",
+            "address": "734 Bushwick Place, Taycheedah, Louisiana, 2786",
+            "about": "Enim fugiat occaecat amet ad est labore cupidatat enim ex incididunt ad. Eu nostrud voluptate aliqua cillum voluptate aute nulla enim. Excepteur enim dolor nisi officia irure duis magna ut irure non aliquip. Sunt deserunt adipisicing laboris nostrud consequat. Ea laborum anim cillum voluptate occaecat dolore id laborum deserunt voluptate minim nisi non. Aute nostrud duis eu voluptate mollit exercitation pariatur veniam culpa magna.\r\n",
+            "registered": "2018-02-16T01:52:09 +04:00",
+            "latitude": 10.927898,
+            "longitude": -80.681058,
+            "tags": [
+            "occaecat",
+            "sunt",
+            "irure",
+            "fugiat",
+            "ad",
+            "id",
+            "et"
+            ],
+            "friends": [
+            {
+                "id": 0,
+                "name": "Owens Hickman"
+            },
+            {
+                "id": 1,
+                "name": "Millie Good"
+            },
+            {
+                "id": 2,
+                "name": "Rachael Maxwell"
+            }
+            ],
+            "greeting": "Hello, Monroe Bowman! You have 2 unread messages.",
+            "favoriteFruit": "strawberry"
+        }
+    ],
+    "music": [
+        {"id": 0, "name": "Rolling in the deep", "genre": 0},
+        {"id": 1, "name": "Despacito", "genre": 3},
+        {"id": 3, "name": "Gangnam Style", "genre": 2},
+        {"id": 4, "name": "DNA", "genre": 2}
+    ],
+    "genres": [
+        {"id": 0, "name": "Blues"},
+        {"id": 1, "name": "Rock"},
+        {"id": 2, "name": "K-POP"},
+        {"id": 3, "name": "Reggue"},
+        {"id": 4, "name": "Electronic"},
+        {"id": 5, "name": "Trap"}
+    ]
+}

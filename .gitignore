@@ -1,0 +1,8 @@
+# Node modules as always
+node_modules/
+
+# Temporal files
+tmp/
+
+# jshint self configuration for VSCode
+.jshintrc
